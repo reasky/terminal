@@ -1,4 +1,4 @@
-# TERMINAL ([reasky.ru](reasky.ru))
+# TERMINAL ([reasky.ru](https://reasky.ru))
 
 A personal website styled as an old-school terminal emulator.  
 The user interacts with the interface via commands — just like in a real CLI.
